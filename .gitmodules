@@ -1,0 +1,3 @@
+[submodule "modules/Amicitia.IO"]
+	path = modules/Amicitia.IO
+	url = https://github.com/alexankitty/Amicitia.IO
