@@ -1,6 +1,6 @@
 # SPD Patcher
 ## A tool for creating Spd patches to use with Aemulus.
-[.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) is required to use this program.
+[.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) is required to use this program.
 
 #### Note:
 It's not recommended to use this tool to make 4K mod add-ons, since the patches won't be able to be used if the user has the 4k mod in any other cpk
